@@ -6,7 +6,7 @@ Lightroom, Figma, After Effects, Blender и других — и расклады
 
 ## Скачать
 
-**[Последняя версия →](https://github.com/MILAMABI/playhead/releases/latest)**
+**[Последняя версия →](https://github.com/MALIMABI/playhead/releases/latest)**
 
 | Компьютер | Файл |
 |---|---|
@@ -21,4 +21,4 @@ Lightroom, Figma, After Effects, Blender и других — и расклады
    Настройки → Конфиденциальность и безопасность → «Всё равно открыть».
 3. Дальше Playhead обновляется сам — в окне появится «Доступна версия → Обновить».
 
-© 2026 MILAMABI. Все права защищены. Условия использования — в файле LICENSE.
+© 2026 MALIMABI. Все права защищены. Условия использования — в файле LICENSE.
