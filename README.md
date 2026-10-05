@@ -10,9 +10,9 @@ Lightroom, Figma, After Effects, Blender и других — и расклады
 
 | Компьютер | Файл |
 |---|---|
-| Мак на M1–M4 (Apple Silicon) | `Playhead-…-arm64.dmg` |
-| Мак на Intel | `Playhead-…-x64.dmg` |
-| Windows | `Playhead-Setup-….exe` |
+| Мак на M1–M4 (Apple Silicon) | `Playhead-…-macOS-Apple-Silicon-arm64.dmg` |
+| Мак на Intel | `Playhead-…-macOS-Intel.dmg` |
+| Windows | `Playhead-…-Windows-Setup.exe` |
 
 ## Установка на Мак
 
